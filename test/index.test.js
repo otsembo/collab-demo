@@ -8,7 +8,4 @@ describe('Math tests', () => {
     it('Divide', () => {
         assert.equal(divide(2,2), 1);
     })
-    it('Multiplication Test', () => {
-        assert.equal(divide(2,3), 1);
-    })
 })
