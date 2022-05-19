@@ -6,6 +6,6 @@ describe('Math tests', () => {
         assert.equal(add(1,2), 3);
     })
     it('Divide', () => {
-        assert.equal(divide(2,1), 2);
+        assert.equal(divide(2,1), 1);
     })
 })
