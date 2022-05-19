@@ -1,0 +1,14 @@
+{
+  "name": "collab-demo",
+  "version": "1.0.0",
+  "description": "test for code collab",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ian",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
