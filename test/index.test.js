@@ -1,5 +1,5 @@
 const assert = require('assert')
-require('../index.js')
+const { add } = require('../index.js')
 
 describe('Math tests', () => {
     it('Addition', () => {
