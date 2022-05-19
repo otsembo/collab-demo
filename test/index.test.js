@@ -3,6 +3,7 @@ const { add } = require('../index.js')
 
 describe('Math tests', () => {
     it('Addition', () => {
-        assert(add(1,2), 3);
+        
+        assert.equal(add(1,2), 3);
     })
 })
